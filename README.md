@@ -1,31 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/azou47">Cloud Enthusiast</a>, <a href="https://www.linkedin.com/in/anthony-zou/">Veteran</a> <h1>
 
-Hello My name is Anthony Zou
+<h2>:computer: My Projects:</h2>
 
-Find out more about me & feel free to connect with me here:
+- [Administrative Walk Through Guides for Azure](https://github.com/apsessoms/AzureCustomRBACRole) (Create custom RBAC roles using ARM templates, configure Azure disk encryption, create Azure file share, create a Mongo DB in AKS, & more)
+- [CIS Microsoft Azure Fundamental Benchmark
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+<h2>📺 Certifications</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anthony%20Zou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-zou/)](https://www.linkedin.com/in/anthony-zou/)
-[![Gmail Badge](https://img.shields.io/badge/-anthonyzou47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyzou47@gmail.com)](mailto:anthonyzou47@gmail.com)
+:white_check_mark: CompTIA Security+
 
-## ⚡ Technologies
+:white_check_mark: Cisco Certified Network Associate (CCNA)
 
-<!-- Check out the Badges folder for more badges -->
+:white_check_mark: CompTIA Advanced Security Practioner (CASP+)
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+:white_check_mark: Microsoft 365 Fundamentals (MS-900)
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+<h2> 🤳 Connect with me:</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=azou47
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azou47)
+[<img align="left" alt="PenderSessoms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anthony-zou
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=azou47=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=azou47)
