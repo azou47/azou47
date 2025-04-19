@@ -7,7 +7,6 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony%20Zou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-zou/)](https://www.linkedin.com/in/anthony-zou/)
-[![Medium Badge](https://img.shields.io/badge/Anthony%20Zou-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@anthonyzou47)](https://medium.com/@anthonyzou47)
 [![Gmail Badge](https://img.shields.io/badge/-anthonyzou47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyzou47@gmail.com)](mailto:anthonyzou47@gmail.com)
 
 ## ⚡ Technologies
